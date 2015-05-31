@@ -6,8 +6,10 @@ public class JKP extends TB {
     TB kelas = new TB();
     JKP data = new JKP() {};
     
-    //inheritance has a tes
-    //overiding perbaiki
+    //inheritance diperbaiki
+    //overiding+overloading perbaiki
+    //nilai kembalian return 0
+    //abstract+interface kurang
     
     public void JmlhKondisiSarana(){
     System.out.println("Jumlah Stop Kontak : ");

@@ -5,8 +5,8 @@ public class IdentitasKelas extends TB {
     Scanner input = new Scanner(System.in);
     TB kelas = new TB();
     
-    public void IdentitasRuangKelas() {
-        System.out.println("Nama Ruangan : ");
+    public IdentitasKelas() {
+        System.out.println("Nama Kelas : ");
         String NamaRuangan = input.next();
         kelas.setNamaRuangan(NamaRuangan);
         System.out.println("Lokasi : ");
